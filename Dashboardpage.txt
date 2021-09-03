@@ -6,8 +6,3 @@
 
 
 
-  Public void verifydashboard(){
-     enter a dashboard
-
-
-}
